@@ -1,2 +1,2 @@
-# chefAwsNodeJs
+packerAwsNodeJs
 Create and deployment node on AWS
